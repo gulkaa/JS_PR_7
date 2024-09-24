@@ -1,0 +1,14 @@
+#ball {
+    transition: all 500ms;
+    transform: rotate(angle);
+    width: 75px;
+}
+button{
+    background-color: bisque;
+    padding: 5px;
+    border: 3px solid rgb(208, 151, 80);
+    margin-right: 10px;
+}
+#text{
+    font-size: 30px;
+}
